@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\bin\Debug\SmsSends.exe.config
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\bin\Debug\SmsSends.exe
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\bin\Debug\SmsSends.pdb
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\bin\Debug\MainSms.dll
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\bin\Debug\System.Net.Http.dll
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\obj\Debug\SmsSends.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\obj\Debug\SmsSends.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\obj\Debug\SmsSends.csproj.CopyComplete
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\obj\Debug\SmsSends.exe
+C:\Users\admin\source\repos\SmsSends\SMSend\SmsSends\obj\Debug\SmsSends.pdb

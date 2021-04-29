@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsSends", "SmsSends\SmsSends.csproj", "{783B9CC3-49BD-4857-8D0D-129CD6EB3632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetInfo", "GetInfo\GetInfo.csproj", "{098FA2AA-CF30-44F0-995E-C2B3BD4A318D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783B9CC3-49BD-4857-8D0D-129CD6EB3632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783B9CC3-49BD-4857-8D0D-129CD6EB3632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783B9CC3-49BD-4857-8D0D-129CD6EB3632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783B9CC3-49BD-4857-8D0D-129CD6EB3632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098FA2AA-CF30-44F0-995E-C2B3BD4A318D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098FA2AA-CF30-44F0-995E-C2B3BD4A318D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098FA2AA-CF30-44F0-995E-C2B3BD4A318D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098FA2AA-CF30-44F0-995E-C2B3BD4A318D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FD964DD-AF2C-4BD0-92AD-60354326660C}
+	EndGlobalSection
+EndGlobal
