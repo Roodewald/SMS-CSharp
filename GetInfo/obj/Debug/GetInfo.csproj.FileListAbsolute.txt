@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\SmsSends\SMSend\GetInfo\bin\Debug\GetInfo.exe.config
+C:\Users\admin\source\repos\SmsSends\SMSend\GetInfo\bin\Debug\GetInfo.exe
+C:\Users\admin\source\repos\SmsSends\SMSend\GetInfo\bin\Debug\GetInfo.pdb
+C:\Users\admin\source\repos\SmsSends\SMSend\GetInfo\obj\Debug\GetInfo.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\SmsSends\SMSend\GetInfo\obj\Debug\GetInfo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SmsSends\SMSend\GetInfo\obj\Debug\GetInfo.exe
+C:\Users\admin\source\repos\SmsSends\SMSend\GetInfo\obj\Debug\GetInfo.pdb

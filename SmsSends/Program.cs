@@ -27,19 +27,18 @@ namespace SmsApp
 
                 if (args.Length == 0)
                 {
-                    targetPhone = args[0];
-                    while ((a = Console.In.ReadLine()) !=null)
-                    {
-                        massage += a + ", ";
-                    }
-                    Console.WriteLine(massage);
-                }
-                else
-                {
                     Console.WriteLine("Enter Arguments");
+                    return;
                 }
 
-                /*ResponseSend responseSend = sms.sendSms("sendertest", targetPhone, massage);
+                targetPhone = args[0];
+                while ((a = Console.In.ReadLine()) != null)
+                {
+                    massage += a;
+                }
+                Console.WriteLine(massage);
+
+                ResponseSend responseSend = sms.sendSms("sendertest", targetPhone, massage);
                 if (responseSend.status == "success")
                 {
                     Console.WriteLine($"Частей в одной смс {responseSend.parts}, всего частей {responseSend.count}, стоимость отправки {responseSend.price}");
@@ -51,7 +50,6 @@ namespace SmsApp
                 ResponseBalance responseBalance = sms.getBalance();
                 if (responseBalance.status == "success") Console.WriteLine(responseBalance.balance);
                 else Console.WriteLine("Error - " + responseBalance.message);
-                Console.ReadKey();*/
             }
         }
     }
